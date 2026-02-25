@@ -75,7 +75,8 @@ endmodule
 
 ```
 #### SIMULATION OUTPUT
-<img width="1920" height="1200" alt="sr_ff" src="https://github.com/user-attachments/assets/c15393a5-9153-40a0-9afe-1e95870e0859" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ebba680-b4a8-4342-b80d-f9fbce81212e" />
+
 
 ---
 
@@ -124,8 +125,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="jk_ff" src="https://github.com/user-attachments/assets/9ac23d90-1584-4459-93b4-dec5590a22a0" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db2875ad-7a96-46dc-931d-6a8a06ca010a" />
 
 ---
 ### D Flip-Flop (Blocking)
@@ -169,7 +169,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="d_ff" src="https://github.com/user-attachments/assets/134e2199-7f33-406d-a7c6-533c240ac948" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9572c91c-68f7-438d-9d60-0f4ff44e45bb" />
 
 ---
 ### T Flip-Flop (Blocking)
@@ -213,7 +213,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="t_ff" src="https://github.com/user-attachments/assets/14067645-f195-432c-b3b8-6942dba12206" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5be2e715-a4ef-45fc-a6b8-0886106eb10b" />
 
 ---
 
